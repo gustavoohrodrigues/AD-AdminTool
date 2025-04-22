@@ -13,7 +13,7 @@ $mainForm.BackColor = [System.Drawing.Color]::White
 
 # Cabeçalho
 $header = New-Object System.Windows.Forms.Label
-$header.Text = "ADMINISTRACAO USUARIOS - Secretaria De Saude(CLPTA)-by Gustavo"
+$header.Text = "ADMINISTRACAO USUARIOS - Secretaria De Saude(CLPTA)"
 $header.Font = New-Object System.Drawing.Font("Segoe UI", 12, [System.Drawing.FontStyle]::Bold)
 $header.Location = New-Object System.Drawing.Point(20, 15)
 $header.Size = New-Object System.Drawing.Size(600, 25)
